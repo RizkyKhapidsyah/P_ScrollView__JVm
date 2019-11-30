@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">P_ScrollView__JVm</string>
+    <string name="TV_Demo1_IDXML">TextView 1</string>
+    <string name="B_Button1_IDXML">Button_1</string>
+    <string name="B_Button2_IDXML">Button_2</string>
+    <string name="B_Button3_IDXML">Button_3</string>
+    <string name="B_Button4_IDXML">Button_4</string>
+    <string name="B_Button5_IDXML">Button_5</string>
+    <string name="B_Button6_IDXML">Button_6</string>
+    <string name="B_Button7_IDXML">Button_7</string>
+    <string name="B_Button8_IDXML">Button_8</string>
+    <string name="B_Button9_IDXML">Button_9</string>
+    <string name="B_Button10_IDXML">Button_10</string>
+    <string name="B_Button11_IDXML">Button_11</string>
+    <string name="B_Button12_IDXML">Button_12</string>
+    <string name="B_Button13_IDXML">Button_13</string>
+    <string name="B_Button14_IDXML">Button_14</string>
+    <string name="B_Button15_IDXML">Button_15</string>
+    <string name="TV_Demo2_IDXML">TextView_2</string>
+    <string name="B_Button16_IDXML">Button_16</string>
+    <string name="B_Button17_IDXML">Button_17</string>
+    <string name="B_Button18_IDXML">Button_18</string>
+    <string name="B_Button19_IDXML">Button_19</string>
+    <string name="B_Button20_IDXML">Button_20</string>
+    <string name="B_Button21_IDXML">Button_21</string>
+    <string name="B_Button22_IDXML">Button_22</string>
+    <string name="B_Button23_IDXML">Button_23</string>
+    <string name="B_Button24_IDXML">Button_24</string>
+    <string name="B_Button25_IDXML">Button_25</string>
+</resources>
